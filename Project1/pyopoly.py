@@ -6,22 +6,23 @@ Section: 53
 E-mail:  jhall14@umbc.edu
 Description:
   make simple monopoly
+  change file name at the bottom to try the second board
 """
 
 from sys import argv
 from random import randint, seed
 from board_methods import load_map, display_board
 
-if len(argv) >= 2:
+if len(argv) >= 2: #ignore this this is for use in command line
     seed(argv[1])
 
 
-def initiate_players(num_players, base_money):
-    players = {}
+def initiate_players(num_players, base_money): # funtion that adds players to the game
+    players = {} # creates a struc to store all players
     for i in range(num_players):
         string = "Player number " + str(i + 1) + ", what is your name? "
         name = input(string)
-        player = {
+        player = { # Players are stored as a struc
             'symbol': input("what symbol do you want your character to use? "),
             'money': base_money,
             'properties_owned': {},
@@ -31,47 +32,50 @@ def initiate_players(num_players, base_money):
     return players
 
 
-def play_turn(player, places, players, go_money):
+def play_turn(player, places, players, go_money): # rolls a turn for an individual player
     roll = randint(1, 6) + randint(1, 6)
     pass_go = False
     is_bankrupt = False
-    if players[player]["position"] + roll < len(places):
-        players[player]["position"] += roll
-    else:
+    
+    if players[player]["position"] + roll < len(places): # if the player does not go out of the map on a roll 
+        players[player]["position"] += roll # move it forward
+    else: # otherwise move the player back to the begining and set pass_go to true
         players[player]["position"] += roll
         players[player]["position"] -= len(places) - 1
         pass_go = True
 
-    place = places[players[player]["position"]]
-    display_board(format_display(players, places))
-    print(player + ", you rolled a " + str(roll))
+    place = places[players[player]["position"]] # sets the place the player is to their position
+    display_board(format_display(players, places)) # display the board
+    # lets the player know what he rolled and landed on
+    print(player + ", you rolled a " + str(roll)) 
     print(player, "you landed on", place["Place"])
+    
     if pass_go:
         print("You passed go and earned", go_money)
         players[player]["money"] += go_money
 
-    for i in players:
+    for i in players: # checks to see if anyone is standing on a properaty owned by someone else and handels rent 
         if place["Place"] in players[i]["properties_owned"]:
             if not player == i:
-                if players[i]["properties_owned"][place["Place"]]["building"]:
+                if players[i]["properties_owned"][place["Place"]]["building"]: # if the properaty has a building on it charge them building rent
                     print(i, "owns this property and owns a building. You have payed them", place['BuildingRent'],
                           "dollars")
                     players[player]["money"] -= int(place['BuildingRent'])
                     players[i]["money"] += int(place['BuildingRent'])
-                else:
+                else: # if not, just charge regular rent
                     print(i, "owns this property. You have payed them", place['Rent'], "dollars")
                     players[player]["money"] -= int(place['Rent'])
                     players[i]["money"] += int(place['Rent'])
         if players[i]["money"] < 0:
             is_bankrupt = True
 
-    if is_bankrupt:
+    if is_bankrupt: # if bankrupt end the turn and the game
         choice = '5'
     else:
         choice = input("\t1) Buy Property\n\t2) Get Property Info\n\t3) Get Player Info\n\t4) Build a "
                        "Building\n\t5) End Turn\n\t \n\tWhat do you want do?\n ")
 
-    while not choice == '5':
+    while not choice == '5': # give choices for the player to do (yes you can buy property and build buildings at any time)
         if choice == '1':
             buy_property(player, players, places)
         elif choice == '2':
@@ -84,11 +88,11 @@ def play_turn(player, places, players, go_money):
                        "Building\n\t5) End Turn\n\t \n\tWhat do you want do?\n ")
 
 
-def build_building(player, players, places):
+def build_building(player, players, places): 
     available_places = []
     for i in players[player]['properties_owned']:
         for j in range(len(places)):
-            if i == places[j]["Place"] and not players[player]["properties_owned"][i]["building"]:
+            if i == places[j]["Place"] and not players[player]["properties_owned"][i]["building"]: # looks for properties that havent been bought
                 print(places[j]["Place"], places[j]["Abbrev"], places[j]["BuildingCost"])
                 available_places.append(places[j]["Place"])
                 available_places.append(places[j]["Abbrev"])
@@ -103,7 +107,7 @@ def build_building(player, players, places):
         print("The property either has a building, isn't yours, or doesn't exist")
 
 
-def format_display(players, places):
+def format_display(players, places): # turns the map into a readable array
     formatted_list = []
     for i in range(len(places)):
         symbol = ''
@@ -161,7 +165,7 @@ def get_player_info(players):
             print()
 
 
-def play_game(starting_money, pass_go_money, board_file, num_players):
+def play_game(starting_money, pass_go_money, board_file, num_players): #initiates players and plays each players turn until the game is over
     players_playing = initiate_players(num_players, starting_money)
     quit_loop = False
 
@@ -207,5 +211,5 @@ if __name__ == "__main__":
     while not 1 <= num_players_val <= 5:
         print("please put a number between 1 and 5")
         num_players_val = int(input("How many players? 1-5 "))
-    places_file = load_map("proj1_board1.csv")
+    places_file = load_map("proj1_board1.csv") # !!!change file name here!!
     play_game(base_money_val, money_pass_go, places_file, num_players_val)
