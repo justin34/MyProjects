@@ -198,7 +198,7 @@ class RoyalGameOfUr:
 
 
 if __name__ == '__main__':
-    file_name = input('What is the file name of the board json? ') if len(argv) < 2 else argv[1]
+    file_name = "" #input('What is the file name of the board json? ') if len(argv) < 2 else argv[1] | put the path in the quotations |
     rgu = RoyalGameOfUr(file_name)
 
     rgu.play_game()
