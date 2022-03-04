@@ -1,0 +1,11 @@
+Mario Circuit 1
+This is a general oval with one side having a slight turn inwards. There is one very long straightaway with one hard left turn.
+0|Straightaway (Start)|0|100|
+100|Very Hard Left Turn|0|20|
+100|Slight Right Turn|1|40|
+100|Hard Left Turn|1|30|
+100|Straightaway|1|100|
+100|Slight Left Turn|1|40|
+100|Straightaway|1|100|
+100|Medium Left Turn|1|35|
+100|Straightaway (Finish)|0|100|

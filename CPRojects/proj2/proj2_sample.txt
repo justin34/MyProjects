@@ -1,0 +1,967 @@
+*****************************
+Welcome to UMBC Friend Finder
+*****************************
+
+What is your first name?
+Jeremy
+What is your last name?
+Dixon
+What is your age?
+46
+What is your ID?
+12345
+What is the name of your organzation?
+UMBC
+40 people loaded into the roster
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+1
+You are: Jeremy Dixon (46 yrs) 12345
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+2
+You don't have any friends yet
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+4
+You don't have any friends to remove
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+1
+You are now friends with Emi!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+2
+You are now friends with Mona!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+You are now friends with Yoshio!
+3
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+You are now friends with Kyra!
+4
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+You are now friends with Quinn!
+5
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+6
+You are now friends with Lucas!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+7
+You are now friends with Ira!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+8
+You are now friends with Joshua!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+9
+You are now friends with Gil!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+10
+You are now friends with Janna!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+2
+
+Friend List for Jeremy
+1. Emi Carson (23 yrs) 8370814
+2. Mona Le (20 yrs) 9463966
+3. Yoshio Sexton (33 yrs) 2323882
+4. Kyra Mcpherson (21 yrs) 9592591
+5. Quinn Tran (25 yrs) 2129671
+6. Lucas Bauer (21 yrs) 4575126
+7. Ira Kinney (22 yrs) 7997049
+8. Joshua Harvey (23 yrs) 1895638
+9. Gil Rosario (17 yrs) 1933204
+10. Janna Atkinson (20 yrs) 3978656
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+You have maximum friends - please remove a friend first
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+You have maximum friends - please remove a friend first
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+4
+
+Friend List for Jeremy
+1. Emi Carson (23 yrs) 8370814
+2. Mona Le (20 yrs) 9463966
+3. Yoshio Sexton (33 yrs) 2323882
+4. Kyra Mcpherson (21 yrs) 9592591
+5. Quinn Tran (25 yrs) 2129671
+6. Lucas Bauer (21 yrs) 4575126
+7. Ira Kinney (22 yrs) 7997049
+8. Joshua Harvey (23 yrs) 1895638
+9. Gil Rosario (17 yrs) 1933204
+10. Janna Atkinson (20 yrs) 3978656
+Who would you like to remove?
+1
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+14
+You are now friends with Iona!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+0
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+6
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+2
+
+Friend List for Jeremy
+1. Mona Le (20 yrs) 9463966
+2. Yoshio Sexton (33 yrs) 2323882
+3. Kyra Mcpherson (21 yrs) 9592591
+4. Quinn Tran (25 yrs) 2129671
+5. Lucas Bauer (21 yrs) 4575126
+6. Ira Kinney (22 yrs) 7997049
+7. Joshua Harvey (23 yrs) 1895638
+8. Gil Rosario (17 yrs) 1933204
+9. Janna Atkinson (20 yrs) 3978656
+10. Iona Foreman (22 yrs) 3675316
+Who would you like to remove?
+0
+Who would you like to remove?
+11
+Who would you like to remove?
+10
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+2
+
+Friend List for Jeremy
+1. Mona Le (20 yrs) 9463966
+2. Yoshio Sexton (33 yrs) 2323882
+3. Kyra Mcpherson (21 yrs) 9592591
+4. Quinn Tran (25 yrs) 2129671
+5. Lucas Bauer (21 yrs) 4575126
+6. Ira Kinney (22 yrs) 7997049
+7. Joshua Harvey (23 yrs) 1895638
+8. Gil Rosario (17 yrs) 1933204
+9. Janna Atkinson (20 yrs) 3978656
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+4
+
+Friend List for Jeremy
+1. Mona Le (20 yrs) 9463966
+2. Yoshio Sexton (33 yrs) 2323882
+3. Kyra Mcpherson (21 yrs) 9592591
+4. Quinn Tran (25 yrs) 2129671
+5. Lucas Bauer (21 yrs) 4575126
+6. Ira Kinney (22 yrs) 7997049
+7. Joshua Harvey (23 yrs) 1895638
+8. Gil Rosario (17 yrs) 1933204
+9. Janna Atkinson (20 yrs) 3978656
+Who would you like to remove?
+1
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+4
+
+Friend List for Jeremy
+1. Yoshio Sexton (33 yrs) 2323882
+2. Kyra Mcpherson (21 yrs) 9592591
+3. Quinn Tran (25 yrs) 2129671
+4. Lucas Bauer (21 yrs) 4575126
+5. Ira Kinney (22 yrs) 7997049
+6. Joshua Harvey (23 yrs) 1895638
+7. Gil Rosario (17 yrs) 1933204
+8. Janna Atkinson (20 yrs) 3978656
+Who would you like to remove?
+3
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+2
+
+Friend List for Jeremy
+1. Yoshio Sexton (33 yrs) 2323882
+2. Kyra Mcpherson (21 yrs) 9592591
+3. Lucas Bauer (21 yrs) 4575126
+4. Ira Kinney (22 yrs) 7997049
+5. Joshua Harvey (23 yrs) 1895638
+6. Gil Rosario (17 yrs) 1933204
+7. Janna Atkinson (20 yrs) 3978656
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+3
+
+****UMBC****
+1 Emi Carson (23 yrs) 8370814
+2 Mona Le (20 yrs) 9463966
+3 Yoshio Sexton (33 yrs) 2323882
+4 Kyra Mcpherson (21 yrs) 9592591
+5 Quinn Tran (25 yrs) 2129671
+6 Lucas Bauer (21 yrs) 4575126
+7 Ira Kinney (22 yrs) 7997049
+8 Joshua Harvey (23 yrs) 1895638
+9 Gil Rosario (17 yrs) 1933204
+10 Janna Atkinson (20 yrs) 3978656
+11 Halla Tran (18 yrs) 9670083
+12 Carter Sexton (18 yrs) 6575858
+13 Indigo Mayo (28 yrs) 1952294
+14 Iona Foreman (22 yrs) 3675316
+15 Athena Burgess (30 yrs) 8569290
+16 August Daniels (22 yrs) 7452692
+17 Ignacia Mckay (28 yrs) 2761324
+18 Upton Lopez (21 yrs) 5547618
+19 Pandora Sheppard (26 yrs) 8503400
+20 Amos Thomas (20 yrs) 1488720
+21 Clark Adkins (22 yrs) 7919226
+22 Aphrodite Greer (19 yrs) 4344036
+23 Xanthus Valencia (18 yrs) 4291906
+24 Ifeoma Leonard (22 yrs) 2608932
+25 Keefe Phelps (21 yrs) 7686363
+26 Yardley Silva (19 yrs) 2748189
+27 Abbot Carson (21 yrs) 2791002
+28 Fulton Richard (19 yrs) 3377666
+29 Harrison Hoffman (20 yrs) 4232583
+30 Vivian Dillon (18 yrs) 3784711
+31 Samson Curry (24 yrs) 4751015
+32 Graiden Ford (22 yrs) 2934261
+33 Hakeem Mack (26 yrs) 9309717
+34 Talon Randall (24 yrs) 7160741
+35 Reuben Jacobs (19 yrs) 9089986
+36 Hunter Burton (21 yrs) 8634910
+37 Tallulah Spencer (26 yrs) 4517234
+38 Kenyon Holmes (21 yrs) 6343599
+39 Deacon James (20 yrs) 2698324
+40 Dylan Townsend (20 yrs) 7469253
+Who would you like to friend?
+3
+You are already friends with Yoshio!
+What would you like to do?
+1. Display Entire Organization
+2. Display Friend List
+3. Search for a Friend
+4. Remove Friend
+5. Exit
+5
+Thank you for using UMBC Friend Finder!

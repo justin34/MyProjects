@@ -1,0 +1,483 @@
+valgrind ./proj5 proj5_data.txt
+Heros loaded: 230 Villains Loaded: 94 Total Loaded: 324
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+1
+1. Hannah Abbot(hp:352 combat:150)
+2. Euan Abercrombie(hp:384 combat:127)
+3. Steward Ackerley(hp:339 combat:182)
+4. Agnes(hp:432 combat:129)
+5. Cornelius Agrippa(hp:404 combat:226)
+6. Archibald Alderton(hp:637 combat:168)
+7. Alphard(hp:485 combat:234)
+8. Archie(hp:125 combat:239)
+9. Arnold(hp:499 combat:247)
+10. Bertram Aubrey(hp:324 combat:127)
+11. Ludo Bagman(hp:180 combat:118)
+12. Otto Bagman(hp:368 combat:298)
+13. Millicent Bagnold(hp:535 combat:245)
+14. Bathilda Bagshot(hp:142 combat:143)
+15. Heathcote Barbary(hp:477 combat:129)
+16. Barker(hp:361 combat:171)
+17. Musidora Barkwith(hp:76 combat:274)
+18. Barnabas the Barmy(hp:316 combat:110)
+19. Barny(hp:552 combat:107)
+20. Barrufio(hp:305 combat:358)
+21. Basil(hp:243 combat:312)
+22. Hetty Bayliss(hp:8 combat:91)
+23. Oswald Beamish(hp:385 combat:276)
+24. Beedle the Bard(hp:264 combat:208)
+25. Flavius Belby(hp:100 combat:377)
+26. Marcus Belby(hp:160 combat:450)
+27. Humphrey Belcher(hp:261 combat:118)
+28. Katie Bell(hp:355 combat:398)
+29. Amy Benson(hp:150 combat:159)
+30. Billy(hp:190 combat:131)
+31. Binky(hp:64 combat:41)
+32. Binns(hp:288 combat:367)
+33. Dennis Bishop(hp:478 combat:216)
+34. Andromeda Black(hp:535 combat:296)
+35. Sirius Black(hp:950 combat:410)
+36. Uncle Alfred Black(hp:618 combat:210)
+37. Stubby Boardman(hp:232 combat:167)
+38. Pierre Bonnacord(hp:491 combat:310)
+39. Amelia Bones(hp:639 combat:295)
+40. Edgar Bones(hp:348 combat:203)
+41. Susan Bones(hp:316 combat:237)
+42. Mungo Bonham(hp:108 combat:166)
+43. Terry Boot(hp:462 combat:165)
+44. Gladys Boothby(hp:395 combat:229)
+45. Libatius Borage(hp:400 combat:288)
+46. Bertie Bott(hp:468 combat:247)
+47. Bozo(hp:50 combat:77)
+48. Barberus Bragge(hp:337 combat:125)
+49. Rudolph Brand(hp:348 combat:270)
+50. Maximus Brankovitch III(hp:226 combat:242)
+51. Eleanor Branstone(hp:236 combat:287)
+52. Mandy Brocklehurst(hp:315 combat:196)
+53. Lavender Brown(hp:504 combat:307)
+54. Frank Bryce(hp:88 combat:31)
+55. Buckbeak(hp:706 combat:314)
+56. Millicent Bulstrode(hp:284 combat:128)
+57. Professor Charity Burbage(hp:216 combat:145)
+58. Sir Cadogan(hp:273 combat:210)
+59. Greta Catchlove(hp:262 combat:200)
+60. Owens Cauldwell(hp:130 combat:297)
+61. Cho Chang(hp:558 combat:395)
+62. Glenda Chittock(hp:444 combat:150)
+63. Agatha Chubb(hp:359 combat:166)
+64. Elfrinda Clagg(hp:348 combat:225)
+65. Penelope Clearwater(hp:369 combat:274)
+66. Edgar Clogg(hp:148 combat:133)
+67. Ritchie Coote(hp:127 combat:234)
+68. Michael Corner(hp:168 combat:291)
+69. Colin Creevy(hp:190 combat:111)
+70. Dennis Creevy(hp:205 combat:110)
+71. Dirk Cresswell(hp:404 combat:175)
+72. Doris Crockford(hp:378 combat:138)
+73. Crispin Cronk(hp:242 combat:178)
+74. Gideon Crumb(hp:290 combat:173)
+75. Barabas Cuffe(hp:436 combat:160)
+76. Gerta Curd(hp:224 combat:173)
+77. Roger Davies(hp:163 combat:229)
+78. Tracy Davis(hp:104 combat:95)
+79. Caradoc Dearborn(hp:190 combat:179)
+80. Apolline Delacour(hp:487 combat:320)
+81. Fleur Delacour(hp:751 combat:338)
+82. Gabrielle Delacour(hp:221 combat:226)
+83. Monsieur Delacour(hp:120 combat:298)
+84. Dedalus Diggle(hp:312 combat:224)
+85. Amos Diggory(hp:470 combat:141)
+86. Cedric Diggory(hp:668 combat:310)
+87. Armando Dippet(hp:436 combat:283)
+88. Emma Dobbs(hp:368 combat:167)
+89. Daisy Dodderidge(hp:574 combat:197)
+90. Dobby Elf(hp:619 combat:307)
+91. Elphias Doge(hp:440 combat:259)
+92. Ragmar Dorkins(hp:164 combat:105)
+93. Kirley Duke(hp:475 combat:216)
+94. Alberforth Dumbeldore(hp:444 combat:392)
+95. Albus Dumbledore(hp:987 combat:450)
+96. Ariana Dumbledore(hp:137 combat:347)
+97. Kendra Dumbledore(hp:352 combat:394)
+98. Percival Dumbledore(hp:695 combat:390)
+99. Marietta Edgecombe(hp:212 combat:120)
+100. Madam Edgecombe(hp:27 combat:64)
+101. Fang(hp:422 combat:368)
+102. Fat Friar(hp:295 combat:109)
+103. Fat Lady(hp:941 combat:10)
+104. Fawcetts(hp:62 combat:8)
+105. Fawkes(hp:597 combat:314)
+106. Benji Fenwick(hp:230 combat:61)
+107. Arabella Doreen Figg(hp:82 combat:8)
+108. Seamus Finnigan(hp:571 combat:215)
+109. Firenze(hp:780 combat:224)
+110. Nicholas Flamel(hp:200 combat:225)
+111. Perenelle Flamel(hp:45 combat:73)
+112. Angus Fleet(hp:1 combat:6)
+113. Mudungus Fletcher(hp:226 combat:164)
+114. Filius Flitwick(hp:447 combat:214)
+115. Fluffy(hp:668 combat:319)
+116. Ambrosius Flume(hp:445 combat:258)
+117. Florean Fortescue(hp:73 combat:71)
+118. Fridwulfa(hp:412 combat:282)
+119. Vicky Frobisher(hp:292 combat:183)
+120. Colonel Fubster(hp:62 combat:99)
+121. Anthony Goldstein(hp:425 combat:255)
+122. Miranda Goshawk(hp:419 combat:98)
+123. Crookshanks Granger(hp:148 combat:37)
+124. Hermione Jean Granger(hp:948 combat:486)
+125. Merton Graves(hp:298 combat:164)
+126. Grey Lady (Helena Ravenclaw)(hp:407 combat:198)
+127. Gringott(hp:615 combat:128)
+128. Griphook(hp:445 combat:170)
+129. Godric Gryffindor(hp:491 combat:374)
+130. Davey Gudgeon(hp:262 combat:22)
+131. Galvin Gudgeon(hp:273 combat:176)
+132. Gladys Gudgeon(hp:138 combat:178)
+133. Gunhilda of Gorsemoor(hp:180 combat:204)
+134. Rubeus Hagrid(hp:942 combat:331)
+135. Ciceron Harkiss(hp:364 combat:135)
+136. Hedwig the owl(hp:250 combat:197)
+137. Bertie Higgs(hp:338 combat:202)
+138. Glover Hipworth(hp:147 combat:161)
+139. Rolanda Hooch(hp:221 combat:110)
+140. Geoffrey Hooper(hp:220 combat:156)
+141. Malfalda Hopkirk(hp:347 combat:165)
+142. Basil Horton(hp:187 combat:178)
+143. Helga Hufflepuff(hp:449 combat:206)
+144. Inigo Imago(hp:158 combat:205)
+145. Angelina Johnson(hp:240 combat:276)
+146. Hestia Jones(hp:550 combat:373)
+147. Lee Jordan(hp:417 combat:231)
+148. Professor Kettleburn(hp:183 combat:208)
+149. Elladora Ketteridge(hp:364 combat:171)
+150. Andrew Kirke(hp:358 combat:278)
+151. Victor Krum(hp:688 combat:294)
+152. Su Li(hp:285 combat:114)
+153. Alice Longbottom(hp:327 combat:219)
+154. Augusta Longbottom(hp:269 combat:270)
+155. Frank Longbottom(hp:702 combat:258)
+156. Neville Longbottom(hp:717 combat:417)
+157. Luna Lovegood(hp:594 combat:498)
+158. Xenophilius Lovegood(hp:591 combat:384)
+159. Remus J. Lupin(hp:521 combat:388)
+160. Ted Teddy Remus Lupid(hp:96 combat:176)
+161. Ernie Macmillan(hp:367 combat:124)
+162. Magorian(hp:262 combat:176)
+163. Catriona McCormack(hp:439 combat:199)
+164. Natalie McDonald(hp:258 combat:145)
+165. Minerva McGonagall(hp:743 combat:464)
+166. Marlene McKinnon(hp:168 combat:261)
+167. Cormac McLaggen(hp:196 combat:298)
+168. Tibirius McLaggen(hp:296 combat:159)
+169. Dorcas Meadows(hp:162 combat:290)
+170. Galatea Merrythought(hp:112 combat:150)
+171. Mimsy(hp:103 combat:185)
+172. Moaning Myrtle(hp:861 combat:82)
+173. Alastor Moody(hp:648 combat:464)
+174. Nearly Headless Nick(hp:720 combat:77)
+175. Phineas Nigellus(hp:680 combat:315)
+176. Norbert(hp:659 combat:386)
+177. Bob Ogden(hp:68 combat:34)
+178. Tiberius Ogden(hp:419 combat:305)
+179. Ollivander(hp:440 combat:429)
+180. Padma Patil(hp:174 combat:123)
+181. Pavarti Patil(hp:174 combat:123)
+182. Jimmy Peakes(hp:363 combat:131)
+183. Pigwidgeon(hp:194 combat:278)
+184. Poppy Pomfrey(hp:650 combat:265)
+185. Albus Severus Potter(hp:318 combat:298)
+186. Harry James Potter(hp:891 combat:486)
+187. James Sirius Potter(hp:218 combat:199)
+188. James Potter(hp:779 combat:352)
+189. Lily Potter(hp:368 combat:208)
+190. Lily Potter(hp:775 combat:441)
+191. Ernie Prang(hp:483 combat:228)
+192. Fabian Prewett(hp:379 combat:166)
+193. Gideon Prewett(hp:648 combat:169)
+194. Augustus Pye(hp:335 combat:104)
+195. Orla Quirke(hp:196 combat:192)
+196. Rowena Ravenclaw(hp:534 combat:304)
+197. Demelza Robins(hp:344 combat:210)
+198. Ronan(hp:279 combat:280)
+199. Madam Rosmerta(hp:223 combat:179)
+200. Rufus Scrimgeour(hp:432 combat:347)
+201. Kingsley Shacklebolt(hp:570 combat:369)
+202. Jack Slooper(hp:299 combat:163)
+203. Severus Snape(hp:795 combat:451)
+204. Alicia Spinett(hp:258 combat:296)
+205. Pomona Sprout(hp:616 combat:217)
+206. Dean Thomas(hp:437 combat:247)
+207. Andromeda Tonks(hp:584 combat:158)
+208. Nymphadora Tonks(hp:706 combat:392)
+209. Ted Tonks(hp:476 combat:311)
+210. Sibyll Trelawney(hp:252 combat:179)
+211. Lisa Turpin(hp:177 combat:125)
+212. Emmeline Vance(hp:241 combat:152)
+213. Romilda Vane(hp:414 combat:199)
+214. C Warrington(hp:352 combat:106)
+215. Arthur Weasley(hp:784 combat:355)
+216. Bill Weasley(hp:484 combat:297)
+217. Charlie Weasley(hp:944 combat:238)
+218. George Weasley(hp:827 combat:223)
+219. Fred Weasley(hp:489 combat:448)
+220. Ginevra (Ginny) Weasley(hp:555 combat:302)
+221. Molly Weasley(hp:598 combat:230)
+222. Percy Weasley(hp:519 combat:295)
+223. Ronald (Ron) Weasley(hp:880 combat:417)
+224. Kevin Whitby(hp:240 combat:217)
+225. Devlin Whitehorn(hp:346 combat:168)
+226. Winky(hp:307 combat:189)
+227. Oliver Wood(hp:291 combat:242)
+228. Augustus Worme(hp:163 combat:104)
+229. Eldred Worple(hp:455 combat:82)
+230. Rose Zeller(hp:305 combat:88)
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+2
+1. Alguf the Awful(hp:387 combat:62)
+2. Aragog(hp:605 combat:425)
+3. Avery(hp:494 combat:241)
+4. Babayaga(hp:709 combat:323)
+5. Malcolm Baddock(hp:364 combat:184)
+6. Bandon Banshee(hp:485 combat:281)
+7. Bane(hp:590 combat:351)
+8. Ali Bashir(hp:360 combat:365)
+9. Araminta Meliflua(hp:359 combat:132)
+10. Aunt Elladora Black(hp:240 combat:283)
+11. Regulus Black(hp:522 combat:125)
+12. Balfour Blane(hp:283 combat:154)
+13. Miles Bletchley(hp:453 combat:205)
+14. Bloody Barron(hp:847 combat:22)
+15. Beatrix Bloxam(hp:573 combat:106)
+16. Blodwyn Bludd(hp:351 combat:172)
+17. Bole(hp:683 combat:156)
+18. Caractucus Burke(hp:313 combat:164)
+19. Eddie Carmichel(hp:588 combat:141)
+20. Alecto Carrow(hp:375 combat:323)
+21. Amycus Carrow(hp:330 combat:413)
+22. Senior Crabbe(hp:433 combat:275)
+23. Vincent Crabbe(hp:559 combat:398)
+24. Barty Sr. Crouch(hp:428 combat:446)
+25. Barty Jr. Crouch(hp:752 combat:282)
+26. Harold Dingle(hp:399 combat:183)
+27. Antonin Dolohov(hp:528 combat:352)
+28. Dudley Dursley(hp:85 combat:98)
+29. Marjorie (Marge) Dursley(hp:239 combat:169)
+30. Petunia Dursley(hp:853 combat:291)
+31. Vernon Dursley(hp:497 combat:333)
+32. Argus Filtch(hp:148 combat:405)
+33. Marcus Flint(hp:387 combat:160)
+34. Cornelius Fudge(hp:664 combat:319)
+35. Marvolo Gaunt(hp:588 combat:393)
+36. Merope Gaunt(hp:889 combat:359)
+37. Morfin Gaunt(hp:414 combat:247)
+38. Tom Marvolo Guant(hp:329 combat:119)
+39. Gregory Goyle(hp:640 combat:108)
+40. Daphne Greengrass(hp:489 combat:184)
+41. Fenrir Greyback(hp:752 combat:385)
+42. Gelert Grindelwald(hp:431 combat:460)
+43. Malodora Grymm(hp:205 combat:119)
+44. Terrence Higgs(hp:130 combat:121)
+45. Olive Hornby(hp:239 combat:92)
+46. Bertha Jorkins(hp:247 combat:168)
+47. Jugson(hp:460 combat:335)
+48. Igor Karkaroff(hp:540 combat:303)
+49. Kreacher(hp:833 combat:392)
+50. Bellatrix Lestrange(hp:888 combat:445)
+51. Rabastan Lestrange(hp:688 combat:108)
+52. Rodolphus Lestrange(hp:723 combat:312)
+53. Gilderoy Lockhart(hp:545 combat:177)
+54. Walden Macnair(hp:588 combat:312)
+55. Abraxas Malfoy(hp:363 combat:120)
+56. Draco Malfoy(hp:835 combat:383)
+57. Lucius Malfoy(hp:860 combat:404)
+58. Narcissa Malfoy(hp:716 combat:224)
+59. Araminta Meliflua(hp:411 combat:281)
+60. Montague(hp:153 combat:259)
+61. Mulciber(hp:198 combat:362)
+62. Nagini(hp:975 combat:381)
+63. Mrs. Norris(hp:490 combat:94)
+64. A Nott(hp:605 combat:390)
+65. Theodore Nott(hp:498 combat:285)
+66. Madam Z Nettles(hp:509 combat:167)
+67. Pansy Parkinson(hp:418 combat:198)
+68. Peeves(hp:802 combat:11)
+69. Peter Pettigrew(hp:664 combat:361)
+70. Piers Polkiss(hp:330 combat:14)
+71. Graham Pritchard(hp:207 combat:101)
+72. Adrian Pucey(hp:309 combat:131)
+73. Quirinus Quirell(hp:550 combat:268)
+74. Tom Marvolo Riddle(hp:852 combat:444)
+75. Tom Riddle(hp:734 combat:431)
+76. Augustus Rookwood(hp:662 combat:221)
+77. Druella Rosier(hp:700 combat:204)
+78. Evan Rosier(hp:488 combat:113)
+79. Selwyn(hp:236 combat:219)
+80. Rita Skeeter(hp:324 combat:232)
+81. Harold Skively(hp:444 combat:257)
+82. Wilbert Slinkhard(hp:401 combat:230)
+83. Horace Slughorn(hp:918 combat:188)
+84. Salazar Slytherin(hp:449 combat:499)
+85. Hepzibah Smith(hp:534 combat:286)
+86. Zacharias Smith(hp:187 combat:181)
+87. Travers(hp:489 combat:231)
+88. Dolores Jane Umbridge(hp:909 combat:490)
+89. Lord Voldemort(hp:1000 combat:500)
+90. Willy Widdershins(hp:547 combat:256)
+91. Wilkies(hp:732 combat:170)
+92. Yaxley(hp:117 combat:241)
+93. Blaise Zabini(hp:344 combat:108)
+94. Wormtail(hp:833 combat:125)
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+3
+You have no heroes yet! You should try to acquire some first!
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+4
+How rare of a wizard would you like to recruit?: 
+1. Very Common (Very High Probability)
+2. Common (High Probability)
+3. Uncommon (Normal Probability)
+4. Rare (Low Probability)
+5. Ultra Rare (Extremely Low Probability)
+1
+You ask around to see if anyone would be willing to join you.
+With some amount of effort,  Libatius Borage has agreed to join you!
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+4
+How rare of a wizard would you like to recruit?: 
+1. Very Common (Very High Probability)
+2. Common (High Probability)
+3. Uncommon (Normal Probability)
+4. Rare (Low Probability)
+5. Ultra Rare (Extremely Low Probability)
+2
+You ask around to see if anyone would be willing to join you.
+With some amount of effort,  Ernie Macmillan has agreed to join you!
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+3
+1. Libatius Borage(hp:400 combat:288)
+2. Ernie Macmillan(hp:367 combat:124)
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+5
+Which of your wizards would you like to train?: 
+1. Libatius Borage(hp:400 combat:288)
+2. Ernie Macmillan(hp:367 combat:124)
+2
+Your Ernie Macmillan trained.
+Your combat is now 134.
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+6
+How many villains would you like to battle?
+1
+***************************************
+The enemy wizards stand ready to battle
+Mulciber(hp:198 combat:362)
+***************************************
+
+Add from 1 to 5 heroes to your battle roster
+Enter -1 when done
+1. Libatius Borage(hp:400 combat:288)
+2. Ernie Macmillan(hp:367 combat:134)
+1
+Add from 1 to 5 heroes to your battle roster
+Enter -1 when done
+1. Libatius Borage(hp:400 combat:288)
+2. Ernie Macmillan(hp:367 combat:134)
+2
+Add from 1 to 5 heroes to your battle roster
+Enter -1 when done
+1. Libatius Borage(hp:400 combat:288)
+2. Ernie Macmillan(hp:367 combat:134)
+-1
+***************************************
+The hero wizards stand ready to battle
+Libatius Borage(hp:400 combat:288)
+Ernie Macmillan(hp:367 combat:134)
+***************************************
+
+Done Preparing
+Libatius Borage vs Mulciber
+Libatius Borage waves their wand and screams "Sectumsempra"! 
+Mulciber is defeated!
+
+***************************************
+The hero wizards win the battle!
+***************************************
+
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+3
+1. Libatius Borage(hp:400 combat:288)
+2. Ernie Macmillan(hp:367 combat:134)
+What would you like to do?: 
+1. See All Heroes
+2. See All Villains
+3. See Your Heroes
+4. Try to Acquire a New Hero
+5. Train a Hero
+6. Enter a Wizard Battle
+7. Exit
+7
+Thank you for playing Harry Potter!

@@ -1,0 +1,291 @@
+Welcome to UMBC Word Search
+What is the name of file you would like to load?
+proj1_p1.txt
+225 letters imported.
+10 words imported.
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+CAREER
+CHARACTER
+CLASS
+CODE
+COMPILER
+COMPUTER
+RETRIEVERS
+SCIENCE
+SUCCESS
+UNIVERSITY
+What is the starting X Y (separated by a space)?
+4 14
+What is the ending X Y (separated by a space)?
+10 14
+You found the word SCIENCE!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+CAREER
+CHARACTER
+CLASS
+CODE
+COMPILER
+COMPUTER
+RETRIEVERS
+SUCCESS
+UNIVERSITY
+What is the starting X Y (separated by a space)?
+9 9
+What is the ending X Y (separated by a space)?
+0 9
+You found the word RETRIEVERS!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+CAREER
+CHARACTER
+CLASS
+CODE
+COMPILER
+COMPUTER
+SUCCESS
+UNIVERSITY
+What is the starting X Y (separated by a space)?
+12 0
+What is the ending X Y (separated by a space)?
+12 8
+You found the word CHARACTER!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+CAREER
+CLASS
+CODE
+COMPILER
+COMPUTER
+SUCCESS
+UNIVERSITY
+What is the starting X Y (separated by a space)?
+0 3
+What is the ending X Y (separated by a space)?
+0 0
+You found the word CODE!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+CAREER
+CLASS
+COMPILER
+COMPUTER
+SUCCESS
+UNIVERSITY
+What is the starting X Y (separated by a space)?
+8 2
+What is the ending X Y (separated by a space)?
+1 9
+You found the word COMPILER!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+CAREER
+CLASS
+COMPUTER
+SUCCESS
+UNIVERSITY
+What is the starting X Y (separated by a space)?
+1 0
+What is the ending X Y (separated by a space)?
+10 9
+You found the word UNIVERSITY!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+CAREER
+CLASS
+COMPUTER
+SUCCESS
+What is the starting X Y (separated by a space)?
+5 14
+What is the ending X Y (separated by a space)?
+9 10
+You found the word CLASS!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+CAREER
+COMPUTER
+SUCCESS
+What is the starting X Y (separated by a space)?
+9 6
+What is the ending X Y (separated by a space)?
+4 1
+You found the word CAREER!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+COMPUTER
+SUCCESS
+What is the starting X Y (separated by a space)?
+8 0
+What is the ending X Y (separated by a space)?
+1 7
+You found the word COMPUTER!
+     0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+  0  E   D   O   C   V   R   S   C   E   S   M   F   T   C   G 
+  1  U   A   A   Y   I   U   C   R   G   R   E   C   X   P   Y 
+  2  M   N   T   Z   C   Z   E   J   E   E   I   Z   D   W   P 
+  3  R   M   I   C   A   T   O   L   W   V   J   G   X   T   E 
+  4  D   R   E   V   U   S   I   F   T   E   F   Z   J   I   S 
+  5  R   S   E   P   E   P   K   S   N   I   V   L   T   U   C 
+  6  S   M   M   E   M   R   I   R   Y   R   P   G   N   L   I 
+  7  V   O   T   O   R   B   S   Y   B   T   U   V   A   W   E 
+  8  C   H   C   H   T   A   V   I   B   E   Q   S   I   G   N 
+  9  F   T   U   B   A   V   C   A   T   R   S   T   C   N   C 
+ 10  S   C   E   E   N   C   E   N   T   Y   X   K   M   V   E 
+ 11  B   T   J   P   D   E   E   Y   B   B   B   T   L   V   Y 
+ 12  C   H   A   R   A   C   T   E   R   U   I   O   I   W   Z 
+ 13  C   Q   I   Q   T   D   M   V   I   H   T   S   C   Y   L 
+ 14  P   R   Y   E   Z   R   L   R   M   F   Z   K   B   C   W 
+
+*********REMAINING WORDS*********
+SUCCESS
+What is the starting X Y (separated by a space)?
+9 6
+What is the ending X Y (separated by a space)?
+4 1
+You found the word CAREER!
+Thank you for playing UMBC Word Search!

@@ -1,0 +1,8 @@
+Mario's Drag Strip
+This is a long straight racetrack that can only have one lap. There are some stars to help slow your opponent down! Go fast!
+0|Start of the Race Track|0|100|
+100|Straightaway|1|100|
+100|Straightaway|0|100|
+100|Straightaway|1|100|
+100|Straightaway|1|100|
+100|End of Track|0|100|
