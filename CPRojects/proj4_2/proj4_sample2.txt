@@ -1,0 +1,594 @@
+./proj4
+************Welcome to UMBC Mario Kart*************
+
+What is your name?
+Select a Racer
+1. Toad
+2. Wario
+3. Mario
+How many other competitors would you like?
+How many laps would you like to complete for the race?
+Which track would you like to use?
+1. Mario's Drag Race
+2. Mario Circuit 1
+3. Ultra Race
+1
+You will be racing 1 lap
+The total length of the race is 800 meters.
+Straightaway (Start)
+
+*********ON YOUR MARKS*********
+
+*********GET SET*********
+
+*********GO! GO! GO!*********
+
+You currently see:
+Straightaway (Start)
+
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 1
+************************
+You currently see:
+Straightaway (Start)
+Ahead is:
+Slight Right Turn
+
+************************
+Toad (Jeremy) has gone 40 meters and is currently going 40 m/s
+Toad (CPU0) has gone 30 meters and is currently going 30 m/s
+Mario (CPU1) has gone 27 meters and is currently going 27 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 2
+************************
+You currently see:
+Slight Right Turn
+Ahead is:
+Slight Right Turn
+
+Mario (CPU1)63 vs Max: 40
+Mario (CPU1) has crashed!
+************************
+Toad (Jeremy) has gone 70 meters and is currently going 30 m/s
+Toad (CPU0) has gone 40 meters and is currently going 10 m/s
+Mario (CPU1) has gone 27 meters and is currently going 0 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 3
+************************
+You currently see:
+Slight Right Turn
+Ahead is:
+Slight Right Turn
+
+************************
+Toad (Jeremy) has gone 100 meters and is currently going 30 m/s
+Toad (CPU0) has gone 50 meters and is currently going 10 m/s
+Mario (CPU1) has gone 36 meters and is currently going 9 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 4
+************************
+You currently see:
+Slight Right Turn
+Ahead is:
+Hard Left Turn
+
+Mario (CPU1)45 vs Max: 40
+Mario (CPU1) has crashed!
+************************
+Toad (Jeremy) has gone 130 meters and is currently going 30 m/s
+Toad (CPU0) has gone 80 meters and is currently going 30 m/s
+Mario (CPU1) has gone 36 meters and is currently going 0 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+3
+************************
+Round : 5
+************************
+You currently see:
+Hard Left Turn
+Ahead is:
+Hard Left Turn
+
+Mario (CPU1)36 vs Max: 30
+Mario (CPU1) has crashed!
+************************
+Toad (Jeremy) has gone 150 meters and is currently going 20 m/s
+Toad (CPU0) has gone 100 meters and is currently going 20 m/s
+Mario (CPU1) has gone 36 meters and is currently going 0 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+3
+************************
+Round : 6
+************************
+You currently see:
+Hard Left Turn
+Ahead is:
+Hard Left Turn
+
+Toad (CPU0)40 vs Max: 30
+Toad (CPU0) has crashed!
+Mario (CPU1)36 vs Max: 30
+Mario (CPU1) has crashed!
+************************
+Toad (Jeremy) has gone 170 meters and is currently going 20 m/s
+Toad (CPU0) has gone 100 meters and is currently going 0 m/s
+Mario (CPU1) has gone 36 meters and is currently going 0 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+3
+************************
+Round : 7
+************************
+You currently see:
+Hard Left Turn
+Ahead is:
+Hard Left Turn
+
+************************
+Toad (Jeremy) has gone 190 meters and is currently going 20 m/s
+Toad (CPU0) has gone 110 meters and is currently going 10 m/s
+Mario (CPU1) has gone 63 meters and is currently going 27 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+3
+************************
+Round : 8
+************************
+You currently see:
+Hard Left Turn
+Ahead is:
+Hard Left Turn
+
+Mario (CPU1)63 vs Max: 30
+Mario (CPU1) has crashed!
+************************
+Toad (Jeremy) has gone 210 meters and is currently going 20 m/s
+Toad (CPU0) has gone 140 meters and is currently going 30 m/s
+Mario (CPU1) has gone 63 meters and is currently going 0 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+3
+************************
+Round : 9
+************************
+You currently see:
+Straightaway
+Ahead is:
+Straightaway
+
+************************
+Toad (Jeremy) has gone 230 meters and is currently going 20 m/s
+Toad (CPU0) has gone 150 meters and is currently going 10 m/s
+Mario (CPU1) has gone 72 meters and is currently going 9 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 10
+************************
+You currently see:
+Straightaway
+Ahead is:
+Straightaway
+
+************************
+Toad (Jeremy) has gone 270 meters and is currently going 40 m/s
+Toad (CPU0) has gone 160 meters and is currently going 10 m/s
+Mario (CPU1) has gone 94.5 meters and is currently going 22.5 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 11
+************************
+You currently see:
+Straightaway
+Ahead is:
+Straightaway
+
+************************
+Toad (Jeremy) has gone 310 meters and is currently going 40 m/s
+Toad (CPU0) has gone 190 meters and is currently going 30 m/s
+Mario (CPU1) has gone 138.375 meters and is currently going 43.875 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 12
+************************
+You currently see:
+Slight Left Turn
+Ahead is:
+Slight Left Turn
+
+************************
+Toad (Jeremy) has gone 350 meters and is currently going 40 m/s
+Toad (CPU0) has gone 220 meters and is currently going 30 m/s
+Mario (CPU1) has gone 158.344 meters and is currently going 19.9688 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 13
+************************
+You currently see:
+Slight Left Turn
+Ahead is:
+Slight Left Turn
+
+************************
+Toad (Jeremy) has gone 390 meters and is currently going 40 m/s
+Toad (CPU0) has gone 240 meters and is currently going 20 m/s
+Mario (CPU1) has gone 186.328 meters and is currently going 27.9844 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 14
+************************
+You currently see:
+Slight Left Turn
+Ahead is:
+Slight Left Turn
+
+Mario (CPU1)63.9844 vs Max: 40
+Mario (CPU1) has crashed!
+************************
+Toad (Jeremy) has gone 420 meters and is currently going 30 m/s
+Toad (CPU0) has gone 270 meters and is currently going 30 m/s
+Mario (CPU1) has gone 186.328 meters and is currently going 0 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 15
+************************
+You currently see:
+Straightaway
+Ahead is:
+Straightaway
+
+************************
+Toad (Jeremy) has gone 450 meters and is currently going 30 m/s
+Toad (CPU0) has gone 300 meters and is currently going 30 m/s
+Mario (CPU1) has gone 195.328 meters and is currently going 9 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 16
+************************
+You currently see:
+Straightaway
+Ahead is:
+Straightaway
+
+************************
+Toad (Jeremy) has gone 490 meters and is currently going 40 m/s
+Toad (CPU0) has gone 330 meters and is currently going 30 m/s
+Mario (CPU1) has gone 217.828 meters and is currently going 22.5 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 17
+************************
+You currently see:
+Straightaway
+Ahead is:
+Straightaway
+
+************************
+Toad (Jeremy) has gone 530 meters and is currently going 40 m/s
+Toad (CPU0) has gone 370 meters and is currently going 40 m/s
+Mario (CPU1) has gone 261.703 meters and is currently going 43.875 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 18
+************************
+You currently see:
+Medium Left Turn
+Ahead is:
+Medium Left Turn
+
+Toad (Jeremy)40 vs Max: 35
+Toad (Jeremy) has crashed!
+************************
+Toad (Jeremy) has gone 530 meters and is currently going 0 m/s
+Toad (CPU0) has gone 390 meters and is currently going 20 m/s
+Mario (CPU1) has gone 281.672 meters and is currently going 19.9688 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 19
+************************
+You currently see:
+Medium Left Turn
+Ahead is:
+Medium Left Turn
+
+Toad (CPU0)40 vs Max: 35
+Toad (CPU0) has crashed!
+************************
+Toad (Jeremy) has gone 560 meters and is currently going 30 m/s
+Toad (CPU0) has gone 390 meters and is currently going 0 m/s
+Mario (CPU1) has gone 295.664 meters and is currently going 13.9922 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 20
+************************
+You currently see:
+Medium Left Turn
+Ahead is:
+Medium Left Turn
+
+************************
+Toad (Jeremy) has gone 590 meters and is currently going 30 m/s
+Toad (CPU0) has gone 400 meters and is currently going 10 m/s
+Mario (CPU1) has gone 308.162 meters and is currently going 12.498 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 21
+************************
+You currently see:
+Medium Left Turn
+Ahead is:
+Medium Left Turn
+
+Mario (CPU1)48.498 vs Max: 35
+Mario (CPU1) has crashed!
+************************
+Toad (Jeremy) has gone 620 meters and is currently going 30 m/s
+Toad (CPU0) has gone 410 meters and is currently going 10 m/s
+Mario (CPU1) has gone 308.162 meters and is currently going 0 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+2
+************************
+Round : 22
+************************
+You currently see:
+Straightaway (Finish)
+Ahead is:
+Straightaway (Finish)
+
+************************
+Toad (Jeremy) has gone 650 meters and is currently going 30 m/s
+Toad (CPU0) has gone 420 meters and is currently going 10 m/s
+Mario (CPU1) has gone 326.162 meters and is currently going 18 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1************************
+Round : 23
+************************
+You currently see:
+Straightaway (Finish)
+Ahead is:
+Straightaway (Finish)
+
+************************
+Toad (Jeremy) has gone 690 meters and is currently going 40 m/s
+Toad (CPU0) has gone 450 meters and is currently going 30 m/s
+Mario (CPU1) has gone 380.162 meters and is currently going 54 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 24
+************************
+You currently see:
+Straightaway (Finish)
+Ahead is:
+Straightaway (Finish)
+
+************************
+Toad (Jeremy) has gone 730 meters and is currently going 40 m/s
+Toad (CPU0) has gone 470 meters and is currently going 20 m/s
+Mario (CPU1) has gone 460.162 meters and is currently going 80 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1
+************************
+Round : 25
+************************
+You currently see:
+Straightaway (Finish)
+Ahead is:
+Straightaway (Finish)
+
+************************
+Toad (Jeremy) has gone 770 meters and is currently going 40 m/s
+Mario (CPU1) has gone 520.162 meters and is currently going 60 m/s
+Toad (CPU0) has gone 480 meters and is currently going 10 m/s
+************************
+What would you like to do?
+1. Max Speed
+2. Pretty Fast
+3. Fast
+4. Slow
+5. Use Obstacle
+6. Quit
+1************************
+Round : 26
+************************
+You currently see:
+Straightaway (Finish)
+Ahead is:
+Straightaway (Finish)
+
+************************
+Toad (Jeremy) has gone 810 meters and is currently going 40 m/s
+Mario (CPU1) has gone 540.162 meters and is currently going 20 m/s
+Toad (CPU0) has gone 520 meters and is currently going 40 m/s
+************************
+The race is over!
+Toad (Jeremy) won the race!

@@ -1,0 +1,19 @@
+Rainbow Road
+This is a very colorful track from earlier versions of Mario Kart.The track starts with a straight down segment out of the finish line. You then go off a jump, then turn left 90-degrees, go through several boost pads, and make a 180-degree left turn with a half-pipe. This leads to a wavy road segment where you can do tricks. After this is a figure eight section. Following this, you weave around a few tight turns to enter the Star Shooter. Following the Star Shooter, there is a curve and a spin with some rings. Then there are two split directions, followed by dash panels to the finish lines. (Watch out, there are NO guardrails there.) The track's texture is translucent. This track is above the Earth's stratosphere, showing parts of the World, most notably, Canada and Greenland.
+100|Straightaway (Start)|0|100|
+50|Spiral to the Left|1|20|
+40|Slight Left|0|60|
+30|Straightaway (before loop)|0|150|
+50|Loop!|0|150|
+200|Straightaway (after loop) |1|150|
+50|Hard Right Turn|1|30|
+100|Straightaway|1|100|
+50|Slight Right Turn|1|40|
+50|Hard Left Turn|0|20|
+100|Medium Right Turn|1|50|
+50|Straightaway|1|100|
+100|Corkscrew!|1|150|
+50|Slight Left|0|50|
+100|Medium Right Turn|1|35|
+100|Hard Left Turn|1|25|
+100|Straightaway (Finish)|0|100|
